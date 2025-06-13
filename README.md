@@ -7,6 +7,7 @@
 
 ## 📊 데이터 출처
 직접 수집한 예시 데이터 (`data/sns_usage.csv`)
+https://data.seoul.go.kr/dataList/10903/S/2/datasetView.do
 
 ## 🛠️ 사용 도구
 - Python
@@ -18,5 +19,4 @@
 ```bash
 streamlit run app.py
 
-출처
-https://data.seoul.go.kr/dataList/10903/S/2/datasetView.do
+
